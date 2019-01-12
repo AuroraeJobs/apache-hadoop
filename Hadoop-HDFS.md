@@ -32,10 +32,10 @@ HDFS 的块比磁盘的块大，其目的是为了最小化寻址开销。
 ##### FSDataOutputStream 对象
 #### 目录
 #### 查询文件系统
-1.文件元数据：FileStatus
-2.列出文件
-3.文件模式
-4.PathFilter 对象
+1. 文件元数据：FileStatus
+2. 列出文件
+3. 文件模式
+4. PathFilter 对象
 #### 删除数据
 ### 数据流
 #### 剖析文件读取
